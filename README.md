@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java, JavaScript and Python 
 - 💞️ I’m looking to collaborate on new projects that help me to improve my studies
 - 📫 How to reach me felipe.tenorio123456@gmail.com
+- 👨‍💻 My Codewars profile codewars.com/users/FelipeFTN
 
 <!---
 FelipeFTN/FelipeFTN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
