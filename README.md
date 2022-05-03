@@ -39,10 +39,12 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-
 <hr>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeftn&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="FelipeFTN" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeftn&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
-</p>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark" />
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFTN&repo=MySecurity&theme=dark&show_owner=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFTN&repo=AdventureGame&theme=dark&show_owner=true" />
+</div>
