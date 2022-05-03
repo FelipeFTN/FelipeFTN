@@ -41,10 +41,10 @@
 
 <hr>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark" />
-<br>
-<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFTN&repo=MySecurity&theme=dark&show_owner=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFTN&repo=AdventureGame&theme=dark&show_owner=true" />
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark" />
 </div>
