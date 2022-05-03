@@ -41,10 +41,16 @@
 
 <hr>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFTN&repo=MySecurity&theme=dark&show_owner=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFTN&repo=AdventureGame&theme=dark&show_owner=true" />
+  <a href="https://github.com/FelipeFTN/MySecurity">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFTN&repo=MySecurity&theme=dark&show_owner=true" />
+  </a>
+  <a href="https://github.com/FelipeFTN/AdventureGame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFTN&repo=AdventureGame&theme=dark&show_owner=true" />
+  </a>
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFTN&show_icons=true&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark" />
+  <a href="https://github.com/FelipeFTN">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFTN&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark" />
+  </a>
 </div>
