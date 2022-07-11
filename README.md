@@ -1,6 +1,6 @@
 ## Hello World, I'm Felipe Tenório👨‍💻
 - 👋 Hi, I’m @FelipeFTN
-- 👀 I’m interested in learn about programming
+- 👀 I’m interested in learning about programming
 - 🌱 I’m currently learning Java, JavaScript and Python 
 - 💞️ I’m looking to collaborate on new projects that help me to improve my studies
 - 📫 How to reach me felipe.tenorio123456@gmail.com
