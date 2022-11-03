@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @FelipeFTN
 - 👀 I’m interested in learning about programming
-- 🌱 I’m currently learning Java, JavaScript and Python 
+- 🌱 I’m currently learning Java, JavaScript, Python, C/C++, Go and Lua 
 - 💞️ I’m looking to collaborate on new projects that help me to improve my studies
 - 📫 How to reach me felipe.tenorio123456@gmail.com
 - 👨‍💻 My Codewars profile codewars.com/users/FelipeFTN
@@ -54,6 +54,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 <hr>
 <div align="center">
