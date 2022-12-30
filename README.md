@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @FelipeFTN
 - 👀 I’m interested in learning about programming
-- 🌱 I’m currently learning Java, JavaScript, Python, C/C++, Go and Lua 
+- 🌱 I’m currently learning Java, Javascript, Python, C/C++, Go and Lua 
 - 💞️ I’m looking to collaborate on new projects that help me to improve my studies
 - 📫 How to reach me felipe.tenorio123456@gmail.com
 - 👨‍💻 My Codewars profile codewars.com/users/FelipeFTN
