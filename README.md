@@ -13,13 +13,24 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" title="linkedin/in/felipeftn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" title="FelipeFTN#0298" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" title="felipe.tenorio123456@gmail.com" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://discord.com/users/343858378411606016" style="text-decoration:none">
+  <img alt="Discord" title="FelipeFTN#0298" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
-[linkedin]: https://www.linkedin.com/in/felipeftn/
+<a href="https://linkedin.com/in/felipeftn/" style="text-decoration:none">
+  <img alt="Linkedin" title="FelipeFTN@protonmail.com" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="mailto:email@example.comFelipeFTN@protonmail.com" style="text-decoration:none">
+  <img alt="E-mail" title="FelipeFTN@protonmail.com" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+
+<a href="https://techhub.social/@felipeftn" style="text-decoration:none">
+  <img alt="Mastodon" title="FelipeFTN" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" />
+</a>
 <br>
+
+
 
 ### Language & Tools
 
