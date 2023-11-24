@@ -8,7 +8,7 @@
 - 👀 I’m interested in learning about programming
 - 🌱 I’m currently learning Rust, Javascript, Python, C/C++, Go, Ruby and Lua 
 - 💞️ I’m looking to collaborate on new projects that help me to improve my studies
-- 📫 How to reach me felipe.tenorio123456@gmail.com
+- 📫 How to reach me FelipeFTN@protonmail.com
 - 👨‍💻 My Codewars profile codewars.com/users/FelipeFTN
 
 ### Connect with me:
@@ -77,6 +77,6 @@
 <div align="center">
   <a href="https://github.com/FelipeFTN">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFTN&show_icons=true&theme=dark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark&langs_count=8&exclude_repo=emoji-copy,dotfiles" />
   </a>
 </div>
