@@ -77,6 +77,6 @@
 <div align="center">
   <a href="https://github.com/FelipeFTN">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFTN&show_icons=true&theme=dark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark&langs_count=8&exclude_repo=emoji-copy,dotfiles" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFTN&layout=compact&theme=dark&langs_count=8&exclude_repo=Emoji-Copy,dotfiles" />
   </a>
 </div>
