@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @FelipeFTN
 - 👀 I’m interested in learning about programming
-- 🌱 I’m currently learning Rust, Javascript, Python, C/C++, Go, Ruby and Lua 
+- 🌱 I’m currently learning Rust, Assembly, Zig, C/C++, Go, Ruby and Lua 
 - 💞️ I’m looking to collaborate on new projects that help me to improve my studies
 - 📫 How to reach me FelipeFTN@protonmail.com
 - 👨‍💻 My Codewars profile codewars.com/users/FelipeFTN
