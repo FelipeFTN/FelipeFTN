@@ -21,7 +21,7 @@
   <img alt="Linkedin" title="FelipeFTN@protonmail.com" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:email@example.comFelipeFTN@protonmail.com" style="text-decoration:none">
+<a href="mailto:FelipeFTN@protonmail.com" style="text-decoration:none">
   <img alt="E-mail" title="FelipeFTN@protonmail.com" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 
