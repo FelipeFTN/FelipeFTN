@@ -36,6 +36,8 @@
 
 ![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=vim)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
