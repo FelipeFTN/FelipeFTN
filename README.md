@@ -24,10 +24,6 @@
 <a href="mailto:FelipeFTN@protonmail.com" style="text-decoration:none">
   <img alt="E-mail" title="FelipeFTN@protonmail.com" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-
-<a href="https://techhub.social/@felipeftn" style="text-decoration:none">
-  <img alt="Mastodon" title="FelipeFTN" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" />
-</a>
 <br>
 
 
